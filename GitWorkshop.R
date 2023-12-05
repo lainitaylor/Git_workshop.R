@@ -7,3 +7,6 @@
 # done by typing filename into git ignore terminal
 
 ## change test
+
+# let's add some code to see how this works with github
+library(lme4)
